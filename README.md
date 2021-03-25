@@ -7,7 +7,8 @@ Submitted by: Hannah Hasenwinkel
 
 Time spent: 4 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://hahasen.pages.iu.edu/SITE_prework/index.html
+##I couldn't get glitch to work so I uploaded it through my university
 
 ## Required Functionality
 
